@@ -1,0 +1,81 @@
+{
+    "chakras" : [
+        {
+            "id": 1,
+            "name": "Muladhara",
+            "english_name":"The Root Chakra",
+            "image": "",           
+            "location": "the base of the spine, the pelvic floor, and the first three vertebrae",
+            "color": "Red",
+            "element": "Earth",
+            "crystals": "Red jasper, onyx, hematite",
+            "yoga": "Wide-legged forward fold, malasana squats, mountain pose"   
+        },
+        {
+            "id": 2,
+            "name": "Svadhishthana",
+            "english_name":"The Sacral Chakra",
+            "image": "",
+            "location": "above the pubic bone and below the navel",
+            "color": "Orange",
+            "element": "Water",
+            "crystals": "Carnelian, tiger's eye, sunstone",
+            "yoga": "Pigeon pose, goddess pose, warrior II"   
+        },
+        {
+            "id": 3,
+            "name": "Manipura",
+            "english_name":"The Solar Plexus Chakra",
+            "image": "",            
+            "location": "from the navel to about the ribcage; associated with all things metabolic, digestive, and stomach-related",
+            "color": "Yellow",
+            "element": "Fire",
+            "crystals": "Citrine, pyrite, amber",
+            "yoga": "Boat pose, twists, warrior III"   
+        },
+        {
+            "id": 4,
+            "name": "Anahata",
+            "english_name":"The Heart Chakra",
+            "image": "",
+            "location": "the center of the chest, encapsulating the heart, the thymus gland (which plays a vital role in your endocrine and lymphatic system), the lungs, and the breasts",
+            "color": "Green",
+            "element": "Air",
+            "crystals": "Rose quartz, jade, malachite",
+            "yoga": "Back bends, reverse plank, upward-facing dog"   
+        },
+        {
+            "id": 5,
+            "name": "Vishuddha",
+            "english_name":"The Throat Chakra",
+            "image": "",
+            "location": "your throat; is associated with the thyroid, parathyroid, jaw, neck, mouth, tongue, and larynx",
+            "color": "Blue",
+            "element": "Ether/Space",
+            "crystals": "Lapis lazuli, aquamarine, kyanite",
+            "yoga": "Fish pose, plow pose, shoulder stand"   
+        },
+        {
+            "id": 6,
+            "name": "Ajna",
+            "english_name":"The Third Eye Chakra",
+            "image": "",
+            "location": "between the eyebrows; rules organs including the pituitary gland, eyes, head, and lower part of the brain",
+            "color": "Indigo",
+            "element": "Light/None",
+            "crystals": "Amethyst, purple fluorite, labradorite",
+            "yoga": "Child's pose, dolphin pose, eagle pose"   
+        },
+        {
+            "id": 7,
+            "name": "Sahastrara",
+            "english_name":"The Crown Chakra",
+            "image": "",
+            "location": "the top of the head",
+            "color": "Violet",
+            "element": "None",
+            "crystals": "Selenite, clear quartz, lepidolite",
+            "yoga": "Headstand, tree pose, savasana"   
+        }
+    ]
+}
