@@ -1,10 +1,27 @@
 {
-    "chakras" : [
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+    "chakraData" : [
         {
             "id": 1,
             "name": "Muladhara",
             "english_name":"The Root Chakra",
-            "image": "",           
+            "image": "https://imgur.com/a/wyj4Fdu",           
             "location": "the base of the spine, the pelvic floor, and the first three vertebrae",
             "color": "Red",
             "element": "Earth",

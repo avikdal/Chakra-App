@@ -12,6 +12,14 @@ code {
     monospace;
 }
 
+.header{
+  display: flex
+}
+
+.lotusHeader{
+  max-width: 6%;
+  padding: 1rem;
+}
 
 nav {
   background-color: white;
@@ -20,21 +28,21 @@ nav {
 nav a {
   display: inline-block;
   margin: 1rem;
-  padding: 0.25rem;
+  padding: 0.5rem;
   text-decoration: none;
   font-size: 1.2em;
-  color: firebrick;
-  border-bottom: 2px solid firebrick;
+  color: purple;
+  border-bottom: 2px solid purple;
   transition: 0.1s;
 }
 
 nav a:hover,
 nav a:active {
-  color: tomato;
-  border-bottom: 2px solid tomato;
+  color: darkorchid;
+  border-bottom: 2px solid darkorchid;
 }
 
 nav a.active {
   color: white;
-  background: tomato;
+  background: darkorchid;
 }
